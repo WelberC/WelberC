@@ -1,4 +1,4 @@
-- 🤵 Olá, meu nome é Welber Caetano Santos
+- 🤵 Olá, meu nome é Welber
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas- FATEC Guarulhos.
 - 👨‍💻 Possuo conhecimentos em: C# (C Sharp), HTML, CSS, Javascript, PHP, e SQL.
 - 👨‍💼 Atualmente, estou buscando uma vaga de Estágio em Desenvolvimento de Software.
